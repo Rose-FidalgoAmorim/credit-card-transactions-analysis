@@ -122,5 +122,3 @@ credit-card-transactions-analysis/
 
 **Rose Fidalgo Amorim**  
 Applied Economics Student — IAE Vannes (Université Bretagne Sud)  
-
-[LinkedIn](https://linkedin.com/in/) · [GitHub](https://github.com/)nes (Université Bretagne Sud)
